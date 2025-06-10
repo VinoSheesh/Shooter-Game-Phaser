@@ -1,4 +1,4 @@
-## Sky Thunder
+## 🛩️ Sky Thunder
 
 **Sky Thunder** adalah game tembak-tembakan pesawat ala *spacewar* berbasis Phaser. Kamu akan mengendalikan pesawat untuk menghancurkan musuh yang datang dari berbagai arah. Pilih pesawatmu, kendalikan dengan lincah, dan capai skor setinggi mungkin!
 
