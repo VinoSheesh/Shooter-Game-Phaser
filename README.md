@@ -15,7 +15,7 @@
 
 | Menu Awal | Menu Pilih Pesawat | Gameplay | Menu Game Over |
 |-----------|--------------------|----------|-----------------|
-| ![image](https://github.com/user-attachments/assets/25358f80-a503-454b-a0ab-37dee4c764c7)| ![image](https://github.com/user-attachments/assets/2ddb446e-5576-410e-8d15-07e75c551e63)| ![image(https://github.com/userattachments/assets/a4635084-7d6a-41ff-833d-98bca8192c14).| ![image](https://github.com/user-attachments/assets/dadd6b4c-e20f-4ce3-ac30-79358cf9e6f0)|
+| ![image](https://github.com/user-attachments/assets/25358f80-a503-454b-a0ab-37dee4c764c7)| ![image](https://github.com/user-attachments/assets/2ddb446e-5576-410e-8d15-07e75c551e63)| ![image](https://github.com/user-attachments/assets/ee294f07-7874-4336-a153-065178c43cb7)| ![image](https://github.com/user-attachments/assets/dadd6b4c-e20f-4ce3-ac30-79358cf9e6f0)|
 
 
 ## 🚀 Cara Memainkan
